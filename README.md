@@ -20,9 +20,9 @@ Our model is based on Pytorch 1.7.1 with Python 3.8.
 
 Install the other requirements by
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 <br>
 
@@ -36,7 +36,7 @@ You can download original datasets:
 
 and put them in ./dataset folder as below
 
-'''
+```
 dataset/
     images/
     labels/
@@ -44,9 +44,9 @@ dataset/
     train_list.txt
     test_list.txt
         each line: 'images/100032540_1.jpg labels/100032540_1.png'
-'''
+```
 
-If you have to make parsing and edge label, please refer to the following link Preprocessing(#https://github.com/Seungeun-Han/Face-Parsing-Preprocessing).
+If you have to make parsing and edge label, please refer to the following link [Preprocessing](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing).
 There are several pre-precessing codes for face parsing.
 
 
