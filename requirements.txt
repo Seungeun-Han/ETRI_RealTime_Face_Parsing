@@ -1,0 +1,5 @@
+matplotlib
+opencv-python
+pillow
+tensorboardx
+inplace_abn
