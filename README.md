@@ -5,7 +5,7 @@ The intellectual property rights of all software belong to ETRI.
 
 Therefore, I cannot share the training code. If you need more assistance, please contact hse@etri.re.kr.
 
-<img width="706" alt="4" src="https://github.com/Seungeun-Han/ETRI_RealTime_Face_Parsing/assets/101082685/7c9e3fc2-1bc9-4e1c-945b-a352f4be095a">
+<img width="706" alt="4" align="center" src="https://github.com/Seungeun-Han/ETRI_RealTime_Face_Parsing/assets/101082685/7c9e3fc2-1bc9-4e1c-945b-a352f4be095a">
 
 
 <br>
