@@ -47,6 +47,7 @@ dataset/
 ```
 
 If you have to make parsing and edge label, please refer to the following link [Preprocessing](https://github.com/Seungeun-Han/Face-Parsing-Preprocessing).
+
 There are several pre-precessing codes for face parsing.
 
 
